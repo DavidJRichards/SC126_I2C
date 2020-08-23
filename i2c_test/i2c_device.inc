@@ -1,0 +1,8 @@
+EXTERN _I2C_WrPort
+EXTERN _I2C_Open
+EXTERN _I2C_Write
+EXTERN _API_Delay
+EXTERN _I2C_Read
+EXTERN _I2C_Close
+
+
